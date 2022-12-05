@@ -25,12 +25,12 @@ body .all-osc {
   flex-direction: column;
 }
 body .all-osc .osc {
-  max-width: 400px;
+  max-width: 500px;
   background: #FFFFFF;
   border-radius: 20px;
 }
 body .all-osc .osc .ih {
-  max-width: 400px;
+  max-width: 500px;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
 }
@@ -46,11 +46,11 @@ body .all-osc .osc .osc-text h2 {
 body .all-osc .osc .osc-text .otp {
   font-size: 16px;
   color: hsl(224deg, 23%, 55%);
-  max-width: 300px;
+  max-width: 350px;
   text-align: center;
 }
 body .all-osc .osc .osc-text .osc-min {
-  width: 300px;
+  width: 350px;
   background: hsl(225deg, 100%, 98%);
   display: flex;
   align-items: center;
@@ -88,7 +88,7 @@ body .all-osc .osc .osc-text .osc-min a:hover {
 body .all-osc .osc .osc-text .ptp {
   background: hsl(245deg, 75%, 52%);
   color: #FFFFFF;
-  width: 300px;
+  width: 350px;
   padding: 15px 20px;
   border-radius: 10px;
   text-decoration: none;
